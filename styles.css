@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+body {
+			font-family: Iceland;
+			background-color: black;
+			color: white;
+}
+
+span {
+	color: red;
+}
+
+.virus {
+	border: solid red;
+	padding: 20px;
+}
+
+p {
+	font-size: 25px;
+}
+
+a {
+	color: white;
+	transition: ease-out .2s;
+}
+
+a:hover {
+	color: red;
+	transition: ease-in .2s;
+}
+
+.borde {
+	border: solid red;
+}
+
+img {
+	border: solid red;
+}
